@@ -3,8 +3,8 @@ My Advent of code 2023 solutions.
 
 | Day | Part 1 | Part 2 | 
 | --- | --- | --- |
-| 1 | :construction: | :construction: |
-| 2 | :construction: | :construction: |
+| 1 | :white_check_mark: | :white_check_mark: |
+| 2 | :white_check_mark: | :white_check_mark: |
 | 3 | :construction: | :construction: |
 | 4 | :construction: | :construction: |
 | 5 | :construction: | :construction: |
