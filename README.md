@@ -5,7 +5,7 @@ My Advent of code 2023 solutions.
 | --- | --- | --- |
 | 1 | :white_check_mark: | :white_check_mark: |
 | 2 | :white_check_mark: | :white_check_mark: |
-| 3 | :construction: | :construction: |
+| 3 | :white_check_mark: | :white_check_mark: |
 | 4 | :construction: | :construction: |
 | 5 | :construction: | :construction: |
 | 6 | :construction: | :construction: |
